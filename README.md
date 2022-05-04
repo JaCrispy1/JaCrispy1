@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on UI/UX Design
 
-- 🌱 I’m currently learning React, Node JS, PHP and UI/UX Designing.
+- 🌱 I’m currently learning PHP, laravel and UI/UX Designing.
 
 - 📫 How to reach me:
     gauravthapaliya10@gmail.com
