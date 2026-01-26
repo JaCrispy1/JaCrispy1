@@ -42,6 +42,12 @@
   <img src="[https://giphy.com/gifs/nerd-actually-um-8OYnFrez06yQt9zJF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsbTF4aWNvOXlmeW5qdTUzNHp6aHZxNDZwNGwyMzJ1M3Q2N3NqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OYnFrez06yQt9zJFW/giphy.gif)W" width="80%" style="border-radius: 10px;" />
 </p>
 
+<p align="center">
+  <a href="INSERT_YOUR_LINK_HERE">
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnBsbTF4aWNvOXlmeW5qdTUzNHp6aHZxNDZwNGwyMzJ1M3Q2N3NqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8OYnFrez06yQt9zJFW/giphy.gif" width="90%" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  </a>
+</p>
+
 ---
 
 ### 🤝 Connect with me
