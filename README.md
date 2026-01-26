@@ -1,40 +1,46 @@
-# <p align="center">Hi there, I'm Gaurav Thapaliya 👋</p>
+# <p align="center">✨ Gaurav Thapaliya ✨</p>
+
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=UI/UX%20Designer%20|%20React%20Dev&fontSize=40&animation=fadeIn](https://cdn3d.iconscout.com/3d/premium/thumb/graphic-designer-looking-for-ideas-3d-icon-png-download-4623142.png)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=UI%2FUX+Designer;React+Developer;Motion+Design+Enthusiast;Problem+Solver" alt="Typing SVG" />
 </p>
 
-### 🚀 About Me
-- 🔭 **Currently working on:** Advanced UI/UX Design systems.
-- 🌱 **Learning:** React JS and motion design with Rive.
-- 💬 **Ask me about:** Figma, prototyping, and frontend architecture.
-- 📫 **Reach me:** [gauravthapaliya10@gmail.com](mailto:gauravthapaliya10@gmail.com)
+<p align="center">
+  <strong>Bridging the gap between aesthetic design and functional code.</strong>
+</p>
 
 ---
 
-### 🛠️ My Tech Stack
-
-#### **🎨 Design & Prototyping**
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Balsamiq](https://img.shields.io/badge/Balsamiq-CC0202?style=for-the-badge&logo=balsamiq&logoColor=white)
-![Affinity](https://img.shields.io/badge/Affinity-%23222222.svg?style=for-the-badge&logo=affinity-photo&logoColor=00CAFF)
-![Rive](https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-#### **💻 Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-#### **📂 Management & Productivity**
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+### 🎨 The Design Vault
+*As a designer, your work should speak louder than your commit graph.* | **Low-Fidelity** | **High-Fidelity** | **Motion & Interaction** |
+| :---: | :---: | :---: |
+| <img src="https://img.shields.io/badge/Balsamiq-CC0202?style=for-the-badge&logo=balsamiq&logoColor=white" /> | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> | <img src="https://img.shields.io/badge/Rive-000000?style=for-the-badge&logo=rive&logoColor=white" /> |
+| Wireframes & Flows | Design Systems | UI Animations |
 
 ---
 
-### 📊 GitHub Activity
+### 🛠️ Integrated Tech Stack
+
+#### **Design Engineering**
+> "I don't just design buttons; I build the logic behind them."
+
+| Tool | Purpose | Proficiency |
+| :--- | :--- | :--- |
+| **React & JS** | Frontend Logic | ▓▓▓▓▓▓▓▓░░ |
+| **Affinity & Canva** | Visual Assets | ▓▓▓▓▓▓▓▓▓░ |
+| **Jira & Notion** | Project Lifecycle | ▓▓▓▓▓▓▓▓▓▓ |
+
+---
+
+### 🚀 Featured Project: [Project Name]
+*(Replace the image below with a GIF of your best React app or Rive animation)*
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z/l41lTfO6YSR56zE/giphy.gif" width="80%" style="border-radius: 10px;" />
+</p>
+
+---
+
+### 🤝 Connect with me
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaCrispy1&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaCrispy1&layout=compact&theme=radical" alt="Langs" />
+<a href="mailto:gauravthapaliya10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
