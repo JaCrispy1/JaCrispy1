@@ -1,6 +1,6 @@
 # <p align="center">Hi there, I'm Gaurav Thapaliya 👋</p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=UI/UX%20Designer%20|%20React%20Dev&fontSize=40&animation=fadeIn" />
+  <img src="[https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=UI/UX%20Designer%20|%20React%20Dev&fontSize=40&animation=fadeIn](https://cdn3d.iconscout.com/3d/premium/thumb/graphic-designer-looking-for-ideas-3d-icon-png-download-4623142.png)" />
 </p>
 
 ### 🚀 About Me
@@ -34,7 +34,7 @@
 ---
 
 ### 📊 GitHub Activity
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=JaCrispy1&show_icons=true&theme=radical&rank_icon=github" alt="Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaCrispy1&layout=compact&theme=radical" alt="Langs" />
 </p>
