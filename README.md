@@ -6,7 +6,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### GitHub Stats
-<p align="center">
+<p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaCrispy1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaCrispy1&layout=compact&langs_count=7&theme=radical"/>
 </p>
