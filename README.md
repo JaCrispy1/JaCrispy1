@@ -31,21 +31,21 @@
 
 | Tool | Purpose | Proficiency |
 | :--- | :--- | :--- |
-| **React & JS** | Frontend Logic | ![80%](https://geps.dev/progress/80) |
-| **Affinity & Canva** | Visual Assets | ![90%](https://geps.dev/progress/90) |
-| **Jira & Notion** | Project Lifecycle | ![95%](https://geps.dev/progress/95) |
+| **React & JS** | Frontend Logic | ![80%](https://geps.dev/progress/30) |
+| **Affinity & Canva** | Visual Assets | ![90%](https://geps.dev/progress/40) |
+| **Jira & Notion** | Project Lifecycle | ![95%](https://geps.dev/progress/90) |
 
 ---
 
 ### 🚀 Featured Product Design Case Study
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJid3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z6b3Z/l41lTfO6YSR56zE/giphy.gif" width="80%" style="border-radius: 10px;" />
+<p align="left">
+  <img src="https://giphy.com/gifs/nerd-actually-um-8OYnFrez06yQt9zJFW" width="80%" style="border-radius: 10px;" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="mailto:gauravthapaliya10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:gauravthapaliya.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
