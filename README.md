@@ -5,8 +5,15 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### GitHub Stats
+### 📊 GitHub Stats
 <p align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JaCrispy1&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaCrispy1&layout=compact&langs_count=7&theme=radical"/>
 </p>
+
+### 💻 What I am Doing?
+<p align ="left>
+ - I jumped into product design starting as a UI/UX Designer
+ - I still try and learn and write code to save my sanity amidst of all uncertainty due to Artificial Intelligence
+</p>
+
