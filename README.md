@@ -1,7 +1,7 @@
 # <p align="center">✨ Gaurav Thapaliya ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Product+Designer;UI%2FUX+Strategist;Software+Designer;Design+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Product+Designer;UI%2FUX+Strategist;Code+Enthusiast;Design+Systems+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ### 🛠️ Integrated Tech Stack
 
 #### **Design Engineering**
-> "I don't just design buttons; I build the logic behind them."
+> "I am trying to understand and write some codes as well. Strategize products - Don't limit yourself to pushing pixels "
 
 | Tool | Purpose | Proficiency |
 | :--- | :--- | :--- |
@@ -47,5 +47,5 @@
 ### 🤝 Connect with me
 <p align="left">
 <a href="mailto:gauravthapaliya.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/gthapaliya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
