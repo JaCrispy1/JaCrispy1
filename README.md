@@ -12,7 +12,7 @@
 </p>
 
 ### 💻 What I am Doing?
-<p align ="left>
+<p align ="left">
  - I jumped into product design starting as a UI/UX Designer
  - I still try and learn and write code to save my sanity amidst of all uncertainty due to Artificial Intelligence
 </p>
