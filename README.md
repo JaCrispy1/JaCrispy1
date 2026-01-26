@@ -1,7 +1,7 @@
 # <p align="center">✨ Gaurav Thapaliya ✨</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Product+Designer;UI%2FUX+Strategist;React+Developer;Design+Systems+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Product+Designer;UI%2FUX+Strategist;Software+Designer;Design+Systems+Architect" alt="Typing SVG" />
 </p>
 
 <p align="center">
