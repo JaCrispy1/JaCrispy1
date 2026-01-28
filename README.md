@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Bridging the gap between aesthetic design and functional code.</strong>
+  <strong>Trasnforming user-centric design into business-centric solution</strong>
 </p>
 
 ---
